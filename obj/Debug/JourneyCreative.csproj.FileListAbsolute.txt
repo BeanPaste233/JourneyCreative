@@ -1,0 +1,16 @@
+D:\Projects\JourneyCreative\bin\Debug\JourneyCreative.dll
+D:\Projects\JourneyCreative\bin\Debug\JourneyCreative.pdb
+D:\Projects\JourneyCreative\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\JourneyCreative\bin\Debug\OTAPI.dll
+D:\Projects\JourneyCreative\bin\Debug\TerrariaServer.exe
+D:\Projects\JourneyCreative\bin\Debug\TShockAPI.dll
+D:\Projects\JourneyCreative\bin\Debug\MySql.Data.dll
+D:\Projects\JourneyCreative\bin\Debug\Mono.Data.Sqlite.dll
+D:\Projects\JourneyCreative\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\JourneyCreative\bin\Debug\OTAPI.pdb
+D:\Projects\JourneyCreative\bin\Debug\TerrariaServer.pdb
+D:\Projects\JourneyCreative\obj\Debug\JourneyCreative.csproj.AssemblyReference.cache
+D:\Projects\JourneyCreative\obj\Debug\JourneyCreative.csproj.CoreCompileInputs.cache
+D:\Projects\JourneyCreative\obj\Debug\JourneyCreative.csproj.CopyComplete
+D:\Projects\JourneyCreative\obj\Debug\JourneyCreative.dll
+D:\Projects\JourneyCreative\obj\Debug\JourneyCreative.pdb
